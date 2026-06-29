@@ -1,5 +1,35 @@
-## Hi there 👋
+# Hi, I'm Joel Chukwudi Okolie 👋
 
+Aspiring Data Analyst based in Nigeria with a passion for solving business problems through data.
+
+## Skills
+
+- Excel
+- SQL (PostgreSQL)
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+
+## Current Learning
+
+- Excel for Data Analytics
+- Python for Data Analytics
+- Power BI
+- Portfolio Projects
+
+## Portfolio Projects
+
+Coming soon...
+
+## Connect with me
+
+LinkedIn (Joel Okolie)
+
+Portfolio Website (Coming Soon)
+
+Email joelchukwudiokolie@gmail.com
 <!--
 **joelokolie/joelokolie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
