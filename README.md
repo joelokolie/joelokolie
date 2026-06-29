@@ -4,8 +4,8 @@ Aspiring Data Analyst based in Nigeria with a passion for solving business probl
 
 ## Skills
 
+- SQL
 - Excel
-- SQL (PostgreSQL)
 - Power BI
 - Python
 - Data Cleaning
